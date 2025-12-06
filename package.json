@@ -9,9 +9,14 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@reduxjs/toolkit": "^2.11.0",
+    "@supabase/supabase-js": "^2.86.2",
+    "@types/styled-components": "^5.1.36",
     "next": "16.0.7",
     "react": "19.2.0",
-    "react-dom": "19.2.0"
+    "react-dom": "19.2.0",
+    "react-redux": "^9.2.0",
+    "styled-components": "^6.1.19"
   },
   "devDependencies": {
     "@types/node": "^20",
